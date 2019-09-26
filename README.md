@@ -1,6 +1,6 @@
 # contador
 
-FirsFlutter application.
+First Flutter application.
 
 ## Getting Started
 
